@@ -1,0 +1,15 @@
+Abacate,8.00,0.000
+Abacaxi,4.00,0.000
+Abobora,2.50,0.000
+Ameixa,6.00,0.000
+Banana,2.50,0.000
+Berinjela,3.50,0.000
+Chuchu,2.00,0.000
+Goiaba,3.50,0.000
+Kiwi,7.00,0.000
+Laranja,3.00,0.000
+Limao,3.50,0.000
+Maca,5.00,0.000
+Mamao,4.00,0.000
+Manga,3.00,0.000
+Maracuja,6.00,0.000
